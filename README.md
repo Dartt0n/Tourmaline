@@ -14,3 +14,4 @@
 * `xclip` - Manage clipboard from terminal
 * `zioxide` - Fast cd
 * `fd` - Find
+* `gitui` - Awesome git TUI
