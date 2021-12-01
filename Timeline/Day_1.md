@@ -13,4 +13,3 @@
 - Automatic setxkbmap
 - G512-led setup (WIP)
 - Install Obisidian.md and restore previous setup
-- Install pycharm (no setup)
