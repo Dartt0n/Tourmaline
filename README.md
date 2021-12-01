@@ -35,3 +35,7 @@ I decided to spend December configuring and building my own Linux workspace
 * `gitui` - Awesome git TUI
 * `exa` - Colorful ls
 * `arandr` - Graphical tool for xrandr
+* `pipx` - Install python apps from pip as normal apps
+* `ipython` - IPython shell. Useful for development
+* `hexyl` - Simple hex viewer
+* `g810-led` - RGB controller for my keyboard (g512)
