@@ -15,3 +15,5 @@
 * `zioxide` - Fast cd
 * `fd` - Find
 * `gitui` - Awesome git TUI
+* `exa` - Colorful ls
+* `arandr` - Graphical tool for xrandr
