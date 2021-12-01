@@ -1,4 +1,22 @@
-# Some Super Cool Linux Build (may be)
+# Tourmaline
+## Idea
+I decided to spend December configuring and building my own Linux workspace
+
+## Goals
+- Working Setup
+- Comfortable Keyboard mappings
+- Configured editors
+- Automatic startups, loadings, connections etc
+- Backups
+- A lot of cloud communication
+  - time sync
+  - weather sync
+  - cloud builds
+  - dockers
+  - ...
+
+- ...
+
 
 # List of cli
 * `glow` - Awesome preview markdown in terminal
