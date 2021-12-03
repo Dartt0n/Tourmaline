@@ -41,3 +41,5 @@ I decided to spend December configuring and building my own Linux workspace
 * `g810-led` - RGB controller for my keyboard (g512)
 * `neovide` - Fast `neovim` GUI
 * `ctop` - Docker TUI
+* `ncdu` - Disk usage analyzer
+* `strace` - Diagnostic and debugging utility
