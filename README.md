@@ -13,9 +13,26 @@ I decided to spend December configuring and building my own Linux workspace
   - weather sync
   - cloud builds
   - dockers
-  - ...
 
-- ...
+
+## Results
+It's 30th of December and it's time to make a summary.
+It was a difficult month because of the many exams I took and heavy workload at work.
+Nevertheless, I managed to achieve some goals for this month and for this project.
+So... Here we go.
+
+By the time of 30th December I have
+- working setup
+- configured ubuntu server
+- comfortable hotkeys and keyboard mapping
+- configured editors (Nvim and VScode)
+- cloud-based development setup
+- time sync
+- weather sync
+- remote dockers
+- self-hosted sites
+
+Now I'm working on saving all my configs and I think I'll give a try to `Pop_OS` next month.
 
 
 # List of awesome apps
