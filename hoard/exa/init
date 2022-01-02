@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+
+if [ $(pwd) = "/home/dartt0n" ]
+then
+    exa -FlhSg
+else
+    exa -FlahSg
+fi

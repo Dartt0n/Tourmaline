@@ -1,0 +1,9 @@
+[buildPlans.diosevka]
+family = "Diosevka"
+spacing = "term"
+serifs = "sans"
+export-glyph-names = true
+no-cv-ss = false
+
+  [buildPlans.diosevka.variants]
+  inherits = "ss04"

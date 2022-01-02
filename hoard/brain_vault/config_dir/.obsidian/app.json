@@ -1,0 +1,17 @@
+{
+  "spellcheck": true,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "autoPairMarkdown": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "foldHeading": true,
+  "readableLineLength": false
+}

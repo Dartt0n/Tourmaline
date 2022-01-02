@@ -1,0 +1,45 @@
+format = """[╭─ $username@$hostname at $directory\
+$kubernetes\
+$git_branch\
+$git_commit\
+$git_state\
+$git_metrics\
+$git_status\
+$hg_branch\
+$docker_context\
+$package\
+$cmake\
+$lua\
+$python\
+$rust\
+$env_var\
+$custom\
+$cmd_duration\
+$line_break\
+$jobs\
+$time\
+$status\
+$shell\
+╰─](bold #F0AFE1)$character
+"""
+
+add_newline = false
+
+[hostname]
+ssh_only = false
+trim_at = "."
+format = "[$hostname]($style)"
+style = "bold #ECBFBD"
+disabled = false
+
+[character]
+success_symbol = "[<\\$](bold #F0AFE1)"
+error_symbol = "[<\\$](bold #E28C8C)"
+
+
+
+[username]
+style_user = "bold #ECBFBD"
+format = "[$user]($style)"
+disabled = false
+show_always = true

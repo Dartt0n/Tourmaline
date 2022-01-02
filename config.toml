@@ -1,0 +1,93 @@
+[envs]
+neovim = { exe_exists = ["nvim"] }
+kitty = { exe_exists = ["kitty"] }
+bspwm = { exe_exists = ["bspwm"] }
+cava = { exe_exists = ["cava"] }
+fish = { exe_exists = ["fish"] }
+mypaint = { exe_exists = ["mypaint"] }
+obsidian = { exe_exists = ["obsidian"] }
+zathura = { exe_exists = ["zathura"] }
+starship = { exe_exists = ["starship"] }
+exa = { exe_exists = ["exa"] }
+brain_vault = { exe_exists = ["obsidian"] }
+xresources = {}
+diosevka = {}
+genzathx = {}
+
+
+[config]
+ignore = ["**/.git"]
+
+[hoards]
+
+
+[hoards.neovim]
+[hoards.neovim.config]
+ignore = ["./plugin/*"]
+[hoards.neovim.config_dir]
+config = { ignore = ["./plugin/*"] }
+neovim = "${HOME}/.config/nvim"
+
+
+[hoards.kitty]
+[hoards.kitty.config_dir]
+kitty = "${HOME}/.config/kitty"
+
+
+[hoards.bspwm]
+[hoards.bspwm.config_dir]
+bspwm = "${HOME}/.config/bspwm"
+
+
+[hoards.cava]
+[hoards.cava.config_dir]
+cava = "${HOME}/.config/cava"
+
+
+[hoards.fish]
+[hoards.fish.config_dir]
+fish = "${HOME}/.config/fish"
+
+
+[hoards.mypaint]
+[hoards.mypaint.config_dir]
+mypaint = "${HOME}/.config/mypaint"
+
+
+[hoards.obsidian]
+[hoards.obsidian.config_dir]
+obsidian = "${HOME}/.config/obsidian"
+
+
+[hoards.brain_vault]
+[hoards.brain_vault.config_dir]
+brain_vault = "${HOME}/BrainVault"
+
+
+[hoards.zathura]
+[hoards.zathura.config_dir]
+zathura = "${HOME}/.config/zathura"
+
+
+[hoards.starship]
+[hoards.starship.init]
+starship = "${HOME}/.config/starship.toml"
+
+
+[hoards.exa]
+[hoards.exa.init]
+exa = "${HOME}/.local/bin/ls"
+
+[hoards.xresources]
+[hoards.xresources.config_dir]
+xresources = "${HOME}/.Xresources.d"
+
+[hoards.diosevka]
+[hoards.diosevka.config_dir]
+diosevka = "${HOME}/Apps/dist/diosevka"
+[hoards.diosevka.init]
+diosevka = "${HOME}/Apps/private-build-plans.toml"
+
+[hoards.genzathx]
+[hoards.genzathx.init]
+genzathx = "${HOME}/Apps/genzathx"

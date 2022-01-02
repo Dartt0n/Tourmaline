@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "47b9da5d377b4284",
+    "type": "split",
+    "children": [
+      {
+        "id": "530fd4e5772f7354",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c7a021eb207b0fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "952b3f06514f7430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e4dff2b93125dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5bc959ea9e5420f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3db912956e5c6b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfc0c7b610150f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b4f703f767a163",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a12a87b6875c7aaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43f10768017aaa22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d1a4d135e16bd46",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "530fd4e5772f7354",
+  "lastOpenFiles": [
+    "Programming/Read Generic Rust.md",
+    "Math/Finite Difference Methods.md",
+    "Math/Азы интегрирования.md",
+    "Work/Execution order.md",
+    "Programming/Atomic Progress Bar.md",
+    "Misc/Git Magick.md",
+    "Excalidraw/IntegralLine.md",
+    "Excalidraw/IntegralFigure.md",
+    "Notes/Literature Homework 13.12.21.md",
+    "Programming/Thread Pool Rust.md"
+  ]
+}
