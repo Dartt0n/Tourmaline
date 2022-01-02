@@ -60,3 +60,4 @@ Now I'm working on saving all my configs and I think I'll give a try to `Pop_OS`
 * `ctop` - Docker TUI
 * `ncdu` - Disk usage analyzer
 * `strace` - Diagnostic and debugging utility
+* `hoard` - Dot-files manager
